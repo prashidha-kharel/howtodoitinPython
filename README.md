@@ -1,2 +1,2 @@
 # howtodoitinPython
-A repo on tips on using R for various use cases.
+A repo on tips on using Python for various use cases.
